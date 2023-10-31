@@ -1,4 +1,4 @@
-# .github-private
+# MeuMercado
 
 ### Ideia Principal
 
